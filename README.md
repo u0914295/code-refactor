@@ -11,7 +11,7 @@ From refactoring the code the company originally gave me, I gained a broader und
 
 To install this application, there are two ways to access the refactored website. The first is to install the code from this repository. Once done, unzip the folder, and open the unzipped folder into a coding program of your choice (ex. Visual Studio Code). For this installation example, we will use Visual Studio Code. To do this, open Visual Studio Code and click on the "File" tab in the upper left-hand corner of the program. Then, click "Open Folder". Navigate to the unzipped folder on your computer and then click "Select Folder". Visual Studio Code will now have loaded the repository code and its associated files. Right-click the "index.html" file and click "Open with Live Server". The refactored web application should now load in your browser of choice.
 
-The other way to access the refactored website is much easier. Simply click the following, deployed refactoring of the company's web application by clicking the following link: [I'm an inline-style link](u0914295.github.io/code-refactor/)
+The other way to access the refactored website is much easier. Simply click the following, deployed refactoring of the company's web application by clicking the following link: [Click Here!](u0914295.github.io/code-refactor/)
 
 ## Usage
 An example of how one can utilize the newly refactored web application (with increased accessibility in mind) is shown in the following screenshot:
